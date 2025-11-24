@@ -1,0 +1,8 @@
+# MAIN
+https://dvonb.xyz/
+https://dvonb.xyz/students
+# API ENDPOINTS
+https://dvonb.xyz/api/2025-fall/itis-3135/students/
+https://dvonb.xyz/api/2025-fall/itis-3135/students?full=1
+https://dvonb.xyz/api/2025-fall/itis-3135/students/<id>
+# Replace <id> with ninernet_username
